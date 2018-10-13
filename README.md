@@ -1,0 +1,1 @@
+This was one of the projects I completed in my winter 2018 quarter at UCLA. It is a game in which the user controls a spaceship and battles aliens in space. The game is coded in C++. The game contains multiple aliens, blasters, torpedoes, explosions, health, lives, and gets progressively harder as the user clears each level.
